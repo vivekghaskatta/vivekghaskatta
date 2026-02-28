@@ -1,26 +1,45 @@
-## Hey there 👋
+# Hey there 👋
 
-I'm Miraya, a software engineer based in Germany.
+I'm Vivek, a Mechatronics Master's student based in Germany.
 
-I mostly work on frontend stuff — React, TypeScript, Tailwind, and a bit of animation with Framer Motion.
+I focus on automation, PLC programming, robotics, and system integration.  
+Most of my work revolves around industrial control systems, sensor-actuator integration, and real hardware implementation.
 
-I also use Figma for UI design and Procreate when I want to sketch ideas.
+This profile showcases selected academic and practical projects in:
+- PLC-based automation systems  
+- Robotics & motion control  
+- Embedded systems  
+- Computer vision  
 
-This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
-
----
-
-## Tools & Tech
-
-- React, TypeScript, Tailwind  
-- Framer Motion for animations  
-- Figma, Apple Notes, Procreate  
+Everything here reflects hands-on implementation — from wiring and commissioning to debugging and validation.
 
 ---
 
-## A Bit About Me
+## ⚙️ Tools & Technologies
 
-- 🐈 I have two cats  
-- ☕ Not a coffee or tea person  
-- 🎌 Into anime — Demon Slayer is a favorite  
-- 🧠 I like building things that are simple, useful, and easy to understand
+- **PLC & Automation:**  
+  Siemens S7-1500 (TIA Portal V20), Beckhoff CX9020 (TwinCAT 3), Mitsubishi FX5U  
+  Ladder Logic, FBD, Structured Text  
+
+- **Programming:**  
+  Python, C, C++  
+
+- **Robotics & Simulation:**  
+  KUKA.Sim, STM32-based control systems  
+
+- **CAD & Mechanical Design:**  
+  SolidWorks, Fusion 360, AutoCAD
+
+- **Systems & Tools:**  
+  MATLAB, Factory I/O, PLCSIM Advanced  
+
+---
+
+## 🔧 Selected Work
+
+- Sensor-integrated linear motion control system (Beckhoff + HMI)  
+- Multi-slot PLC-based conveyor sorting system (S7-1500)  
+- SCARA robot development with STM32 control  
+- YOLOv8-based object detection & depth estimation  
+
+---
