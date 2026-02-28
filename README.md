@@ -24,12 +24,11 @@ Everything here reflects hands-on implementation — from wiring and commissioni
 - MATLAB, Factory I/O, PLCSIM Advanced  
 
 ---
-
-## 🔧 Selected Work
+<!--## 🔧 Selected Work
 
 - Sensor-integrated linear motion control system (Beckhoff + HMI) – currently under development
 - Multi-slot PLC-based conveyor sorting system (S7-1500)  
 - SCARA robot development with STM32 control  
 - YOLOv8-based object detection & depth estimation  
 
----
+----->
